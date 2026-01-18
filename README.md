@@ -24,8 +24,7 @@ After this workshop, you will be able to:
 
 This workshop does not cover the following:
 
-- Hands-on, guided practice with AI tools for policy-relevant tasks. This is covered in [Goldman Hands-on AI for Policy Practice
- ](https://github.com/dlab-berkeley/Goldman-Hands-on-AI-for-Policy-Practice).
+- Hands-on, guided practice with AI tools for policy-relevant tasks. This is covered in the [Goldman Hands-on AI](https://github.com/dlab-berkeley/Goldman-Hands-On-AI) workshop.
 - Applied coding for Machine Learning. This is covered in [Python Machine Learning Fundamentals](https://github.com/dlab-berkeley/Python-Machine-Learning-Fundamentals) and [R Machine Learning with tidymodels](https://github.com/dlab-berkeley/R-Machine-Learning).
 - Applied coding for Deep Learning. This is covered in [Python Deep Learning](https://github.com/dlab-berkeley/Python-Deep-Learning) and [R Deep Learning](https://github.com/dlab-berkeley/R-Deep-Learning).
 
@@ -47,17 +46,18 @@ Here are other AI workshops offered by the D-Lab:
 
 ## Basic Competency
 
-[LLMs for Exploratory Research](https://github.com/dlab-berkeley/LLMs-Exploratory-Research)
-[Vibe Coding For Research](https://github.com/dlab-berkeley/vibe-coding-for-research)
-[Getting Started With AI](https://github.com/dlab-berkeley/Getting-Started-With-AI)
+* [LLMs for Exploratory Research](https://github.com/dlab-berkeley/LLMs-Exploratory-Research)
+* [Vibe Coding For Research](https://github.com/dlab-berkeley/vibe-coding-for-research)
+* [Getting Started With AI](https://github.com/dlab-berkeley/Getting-Started-With-AI)
+* [Goldman Hands-On AI](https://github.com/dlab-berkeley/Goldman-Hands-on-AI/edit/main/README.md)
 
 ## Intermediate/Advanced Competency
 
-[AI-Assisted Coding in Python](https://github.com/dlab-berkeley/AI-Assisted-Coding-In-Python) 
-[AI-Assisted Coding in R](https://github.com/dlab-berkeley/AI-Assisted-Coding-In-R)
-[Python GPT Fundamentals](https://github.com/dlab-berkeley/Python-GPT-Fundamentals)
+* [AI-Assisted Coding in Python](https://github.com/dlab-berkeley/AI-Assisted-Coding-In-Python) 
+* [AI-Assisted Coding in R](https://github.com/dlab-berkeley/AI-Assisted-Coding-In-R)
+* [Python GPT Fundamentals](https://github.com/dlab-berkeley/Python-GPT-Fundamentals)
 
 # Contributors
 
-[Bruno Smaniotto](https://dlab.berkeley.edu/people/bruno-smaniotto)
-[Tom van Nuenen](https://dlab.berkeley.edu/people/tom-van-nuenen)
+* [Bruno Smaniotto](https://dlab.berkeley.edu/people/bruno-smaniotto)
+* [Tom van Nuenen](https://dlab.berkeley.edu/people/tom-van-nuenen)
